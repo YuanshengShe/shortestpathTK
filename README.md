@@ -1,6 +1,7 @@
 **A visualization project related to A * and Dijkstra's algorithm.**      
-# 
-<img width="752" height="432" alt="image" src="https://github.com/user-attachments/assets/14f957eb-e68c-4b6f-99f4-4cdeccd46ed2" />    
+
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/14f957eb-e68c-4b6f-99f4-4cdeccd46ed2" />        
+
 In terms of visualization, a RasterMap class is provided, which can quickly generate corresponding raster maps based on the provided matrix according to the following rules:        
 
     a) 0 represents a regular grid     
@@ -9,7 +10,8 @@ In terms of visualization, a RasterMap class is provided, which can quickly gene
     d) 3 represents obstacle grid     
     
 In addition, a user interface program written using MVC architecture is provided to visualize the running process of the algorithm.    
-In terms of algorithms, A * and Dijkstra algorithms have been implemented based on the Point and PointGroup classes defined in the rastermap module. You can directly use this interface to find the shortest path.
+In terms of algorithms, A * and Dijkstra algorithms have been implemented based on the Point and PointGroup classes defined in the rastermap module. You can directly use this interface to find the shortest path.   
+
 <table>
 	<tr>
 		<td>
