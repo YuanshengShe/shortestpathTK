@@ -10,7 +10,22 @@ In terms of visualization, a RasterMap class is provided, which can quickly gene
     
 In addition, a user interface program written using MVC architecture is provided to visualize the running process of the algorithm.    
 In terms of algorithms, A * and Dijkstra algorithms have been implemented based on the Point and PointGroup classes defined in the rastermap module. You can directly use this interface to find the shortest path.
-<img width="777" height="418" alt="image" src="https://github.com/user-attachments/assets/f5516cb9-30a6-4f95-b375-8905cdbdb66e" />   
+<table>
+	<tr>
+		<td>
+			<center>
+				<img src='https://github.com/YuanshengShe/shortestpathTK/blob/main/interface/astar_gif.gif'/>
+				Fig1. A star
+			</center>
+		</td>
+		<td>
+			<center>
+				<img src='https://github.com/YuanshengShe/shortestpathTK/blob/main/interface/dijkstra_gif.gif'/>
+				Fig2. Dijkstra
+			</center>
+		</td>
+	</tr>
+</table>
 
 <font color='blue'>About how to use</font>：
 1. Clone it onto your computer.
